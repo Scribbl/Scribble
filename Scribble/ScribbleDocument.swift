@@ -2,7 +2,7 @@
 //  ScribbleDocument.swift
 //  Scribble
 //
-//  Created by NILANJANA PAUL on 18/11/2023.
+//  Created by OVERLORD on 18/11/2023.
 //
 
 import SwiftUI
